@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neighhome.fun/sitemap.xml
